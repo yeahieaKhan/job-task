@@ -1,6 +1,9 @@
 # React + Vite
 
-React router
-React
-Tailwindcss
-Daisyui Components
+# React
+
+# React router
+
+# Tailwindcss
+
+# Daisyui Components
